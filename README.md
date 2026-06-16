@@ -11,3 +11,4 @@ email: pandrade@uva.br
 
 1° - Maria Luiza Benevides
 2° - Felipe Carriello de Freitas Leardini
+3° - Thiago de oliveira soares
